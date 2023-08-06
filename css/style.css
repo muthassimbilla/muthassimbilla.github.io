@@ -191,7 +191,7 @@ a {
 }
 a:hover {
   text-decoration: none;
-  color: #fafafc;
+  color: #FFC107;
 }
 a:focus {
   outline: inherit;
@@ -199,7 +199,7 @@ a:focus {
 
 /* ----- table ----- */
 .art-table {
-  color: #8c8c8e;
+  color: #8c8c8e;z
 }
 .art-table ul {
   padding: 0;
@@ -1135,7 +1135,7 @@ info bar
 .art-info-bar .art-lang-skills .art-lang-skills-item .art-cirkle-progress .progressbar-text:after {
   content: '%';
   position: absolute;
-  right: -7px;
+  right: -10px;
 }
 .art-info-bar .art-hard-skills .art-hard-skills-item {
   margin-bottom: 15px;
